@@ -472,13 +472,13 @@ The application was tested using a live webcam.
 | Fast movement | Successful |
 | Distance changes | Successful |
 | Manual reselection | Successful |
-| Observed FPS | Approximately 12 |
+| Observed FPS | Approximately 20 |
 
 The tracker successfully followed the selected object during slow movement, fast movement, and changes in distance.
 
 The application also supported manual object reselection using the R key.
 
-The observed processing performance was approximately 12 FPS during testing.
+The observed processing performance was approximately 20 FPS during testing.
 
 Performance may vary depending on the computer, webcam, lighting, and object movement.
 
